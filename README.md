@@ -28,21 +28,21 @@ Second, the aeroplane equations include thrust. The path is plotted with differe
 
 Last, the aeroplane longitudinal equations are used to determine the change in Velocity (V), flight path angle (gamma), angle of attack (alpha), pitch rate (q), altitude (h) and downpath (zeta)
 
-## Glider motion
+## Glider
 
-### Initial path angle
-<img align="left" width="1000" height="1000" src="Initial Flight Path condition Glider.png">
+### Glider with different initial path angle
+<img align="left" width="700" height="700" src="Initial Flight Path condition Glider.png">
 
-### Initial velocity
-<img align="left" width="1000" height="1000" src="Initial Velocity Condition Glider.png">
+### Glider with different Initial velocities
+<img align="left" width="700" height="700" src="Initial Velocity Condition Glider.png">
 
 ## Near straight and level motion
 
-### Initial path angle
-<img align="left" width="1000" height="1000" src="Near Straight Level Initial Flight Path condition.png">
+### Glider with different initial path angle
+<img align="left" width="700" height="700" src="Near Straight Level Initial Flight Path condition.png">
 
-### Initial velocity
-<img align="left" width="1000" height="1000" src="Near Straight Level Initial Velocity condition.png">
+### Glider with different Initial velocities
+<img align="left" width="700" height="700" src="Near Straight Level Initial Velocity condition.png">
 
 ## Longitudinal motion
-<img align="left" width="1000" height="1000" src="Longitudinal B747.png">
+<img align="left" width="700" height="700" src="Longitudinal B747.png">
