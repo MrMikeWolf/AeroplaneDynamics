@@ -42,7 +42,7 @@ Last, the aeroplane longitudinal equations are used to determine the change in V
 
 ### Near straight and level with different initial path angle
 
-<img align="left" width="1000" height="1000" src=r"Near Straight Level Initial Flight Path condition.png">
+<img align="left" width="1000" height="1000" src="Near Straight Level Initial Flight Path condition.png">
 
 ### Near straight and level with different Initial velocities
 
