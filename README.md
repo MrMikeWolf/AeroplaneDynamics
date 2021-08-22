@@ -6,16 +6,10 @@ Aeroplane equations of motion
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#Glider">Glider Equations of Motion</a>
-      <ul>
-        <li><a href="#initial-path-angle">Initial path angle</a></li>
-        <li><a href="#initial-velocity">initial velocity</a></li>
-      </ul>
-    </li>
+    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#glider">Glider Equations of Motion</a></li>
+    <li><a href="#near-straight-and-level">Near straight and level</a></li>
+    <li><a href="#longitudinal-motion">Longitudinal</a></li>
   </ol>
 </details>
 
@@ -38,7 +32,7 @@ Last, the aeroplane longitudinal equations are used to determine the change in V
 
 <img align="left" width="1000" height="1000" src="Initial Velocity Condition Glider.png">
 
-## Near straight and level motion
+## Near straight and level
 
 ### Near straight and level with different initial path angle
 
