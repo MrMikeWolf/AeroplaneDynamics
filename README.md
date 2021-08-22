@@ -31,18 +31,23 @@ Last, the aeroplane longitudinal equations are used to determine the change in V
 ## Glider
 
 ### Glider with different initial path angle
-<img align="left" width="700" height="700" src="Initial Flight Path condition Glider.png">
+
+<img align="left" width="1000" height="1000" src="Initial Flight Path condition Glider.png">
 
 ### Glider with different Initial velocities
-<img align="left" width="700" height="700" src="Initial Velocity Condition Glider.png">
+
+<img align="left" width="1000" height="1000" src="Initial Velocity Condition Glider.png">
 
 ## Near straight and level motion
 
-### Glider with different initial path angle
-<img align="left" width="700" height="700" src="Near Straight Level Initial Flight Path condition.png">
+### Near straight and level with different initial path angle
 
-### Glider with different Initial velocities
-<img align="left" width="700" height="700" src="Near Straight Level Initial Velocity condition.png">
+<img align="left" width="1000" height="1000" src=r"Near Straight Level Initial Flight Path condition.png">
+
+### Near straight and level with different Initial velocities
+
+<img align="left" width="1000" height="1000" src="Near Straight Level Initial Velocity condition.png">
 
 ## Longitudinal motion
-<img align="left" width="700" height="700" src="Longitudinal B747.png">
+
+<img align="left" width="1000" height="1000" src="Longitudinal B747.png">
