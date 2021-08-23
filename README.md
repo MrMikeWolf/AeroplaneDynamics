@@ -7,41 +7,51 @@ Aeroplane equations of motion
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#glider">Glider Equations of Motion</a></li>
-    <li><a href="#near-straight-and-level">Near straight and level</a></li>
+    <li><a href="#glider-motion">Glider Equations of Motion</a></li>
+    <li><a href="#near-straight-and-level-motion">Near straight and level</a></li>
     <li><a href="#longitudinal-motion">Longitudinal</a></li>
   </ol>
 </details>
 
 ## About the project
 
-This project uses the equations of motion of an aeroplane to plot the flight path. 
-First, the aeroplane is treated as a glider (no thrust). The path is plotted with different initial conditions for the flight path angle and velocity. 
+This project simulates themotion of an aeroplane for three cases.
 
-Second, the aeroplane equations include thrust. The path is plotted with different initial conditions for the flight path angle and velocity.
+  <ul>
+    <li><a>Glider (no thrust)</a></li>
+    <li><a>Near straight and level (with thrust)</a></li>
+    <li><a>Longitudinal (B-747)</a></li>
+  </ul>
 
-Last, the aeroplane longitudinal equations are used to determine the change in Velocity (V), flight path angle (gamma), angle of attack (alpha), pitch rate (q), altitude (h) and downpath (zeta)
+The glider and near straight and level simulations are simulated for different initial path angles and velocities while as the longitudinal simulation uses a single set of initial conditions for the intiial flight path angle and velocity. The parameters used in the longitudinal simulatation are from a Boeing 747.
 
-## Glider
+Below is a list of the variables used in the simulation:
 
-### Glider with different initial path angle
+<ul>
+  <li><a>V - Velocity (ft/s)</a></li>
+  <li><a>γ - Flight path angle (degress)</a></li>
+  <li><a>α - Angle of attack (degrees)</a></li>
+  <li><a>q - Pitch rate (degrees/s)</a></li>
+  <li><a>θ - Pitch angle (degrees)</a></li>
+  <li><a>h - Altitude (ft)</a></li>
+  <li><a>ζ - Downrange (ft)</a></li>  
+</ul>
 
+## Glider motion
+
+### Glider with different initial path angles
 <img align="left" width="1000" height="1000" src="Initial Flight Path condition Glider.png">
 
 ### Glider with different Initial velocities
-
 <img align="left" width="1000" height="1000" src="Initial Velocity Condition Glider.png">
 
-## Near straight and level
+## Near straight and level motion
 
-### Near straight and level with different initial path angle
-
+### Near straight and level with different initial path angles
 <img align="left" width="1000" height="1000" src="Near Straight Level Initial Flight Path.png">
 
 ### Near straight and level with different Initial velocities
-
 <img align="left" width="1000" height="1000" src="Near Straight Level Initial Velocity.png">
 
 ## Longitudinal motion
-
 <img align="left" width="1000" height="1000" src="Longitudinal B747.png">
